@@ -19,7 +19,7 @@ h2{
     max-height: 10%;
 }
 .img_bg{
-    background-image: url("googleSbar.png");
+    background-image: url("images/googleSbar.png");
     background-repeat: no-repeat;
     background-size:contain;
     background-position: 0%;
@@ -63,7 +63,7 @@ button{
 }
 .GH_Presentation{
     display: flex;
-    background-image: url("LivingRoom.jpg");
+    background-image: url("images/LivingRoom.jpg");
     background-size:100%;
     background-position: 10%;
 }
